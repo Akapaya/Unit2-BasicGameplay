@@ -1,18 +1,18 @@
-# Projeto Unity: Shooter 
+# Unity Project: Shooter
 
-Bem-vindo ao meu repositório Unity, onde compartilho meu projeto desenvolvido como parte do curso oficial da Unity. Este projeto é um desafio de gameplay, fazendo um shooter-up, foi melhorado o conteudo utilizando MVC e Object Pool.
+Welcome to my Unity repository, where I share my project developed as part of the official Unity course. This project is a gameplay challenge, making a shooter-up, the content was improved using MVC and Object Pool.
 
-## Descrição do Projeto
+## Project description
 
 ### Shooter-up Gameplay
-No jogo, os jogadores enfrentam desafios ao atirar nos inimigos aleatorios que caem aleatoriamente, para atirar o jogadore precisa pressionar "espaço", funcionalidades para perfomance foram aplicadas mesmo sem constar no projeto do curso da Unity.
+In the game, players face challenges when shooting random enemies that fall randomly, to shoot the player needs to press "space", performance features were applied even without being included in the Unity course project.
 
 https://github.com/Akapaya/Unit2-BasicGameplay/assets/63330951/28129c37-4592-45b9-a73c-8b5e1ff9c53e
 
-## Desafios e Conquistas Unity
-Este projeto não apenas explora aspectos técnicos do desenvolvimento de jogos na Unity, mas também abrange desafios específicos propostos pela plataforma. Ao concluir cada desafio, estou progredindo em direção aos badges oficiais da Unity.
+## Unity Challenges and Achievements
+This project not only explores technical aspects of game development in Unity, but also covers specific challenges posed by the platform. By completing each challenge, I'm progressing towards official Unity badges.
 
-## Tecnologias e Habilidades Demonstradas
+## Demonstrated Technologies and Skills
 
 - Unity3D
 - C#
@@ -20,11 +20,11 @@ Este projeto não apenas explora aspectos técnicos do desenvolvimento de jogos 
 - MVC
 - Object Pool
 
-## Contato
+## Contact
 
-Sinta-se à vontade para entrar em contato comigo para discutir mais sobre este projeto ou colaborações futuras.
+Please feel free to contact me to discuss further about this project or future collaborations.
 
 - Email: gregory_valentim@hotmail.com
 - LinkedIn: [Gregory Valentim](https://www.linkedin.com/in/gregory-valentim/)
 
-Obrigado por explorar este projeto Unity.
+Thanks for exploring this Unity project.
